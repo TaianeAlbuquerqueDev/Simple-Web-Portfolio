@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Simple%20Web&fontSize=48&fontColor=fff&fontAlignY=35&desc=Mockup%20Minimalista%20em%20HTML%20%26%20CSS&descAlignY=55&descSize=18" width="100%"/>
+![Simple Web](https://img.shields.io/badge/Simple%20Web-Mockup%20Minimalista-6622F0?style=for-the-badge)
+
+# 🌐 Simple Web
 
 </div>
+
+---
 
 # 🌐 Simple Web
 
@@ -63,11 +67,3 @@ Neste projeto foram praticados:
 - Efeitos de hover com CSS
 - Layout de cards com Flexbox/Grid
 - Uso de ícones externos via CDN
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
